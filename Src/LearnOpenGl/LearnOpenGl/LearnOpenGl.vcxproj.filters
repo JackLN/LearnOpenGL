@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{1fdb25c4-c24a-4367-86ad-16e8b7e32f2b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangeDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TexDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\FileUtils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\ResCache.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GLView.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DemoBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangeDemo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TSingleton.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TexDemo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\FileUtils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\ResCache.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeDemo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GLView.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFWHandler.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

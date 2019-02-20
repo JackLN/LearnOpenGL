@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/4/7 16:43:41。
+     1>项目“D:\Code\learnOpenGL\glfw-build\tests\tearing.vcxproj”在节点 6 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/Code/learnOpenGL/glfw-3.2.1/glfw-3.2.1/tests/CMakeLists.txt
+         CMake does not need to re-run because D:\Code\learnOpenGL\glfw-build\tests\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\deps" /I"D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"tearing.dir\Debug\\" /Fd"tearing.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\tests\tearing.c" "D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\deps\getopt.c" "D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\deps\glad.c"
+         tearing.c
+         getopt.c
+         glad.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\learnOpenGL\glfw-build\tests\Debug\tearing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\src\Debug\glfw3.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Code/learnOpenGL/glfw-build/tests/Debug/tearing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Code/learnOpenGL/glfw-build/tests/Debug/tearing.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug tearing.dir\Debug\tearing.obj
+         tearing.dir\Debug\getopt.obj
+         tearing.dir\Debug\glad.obj
+         tearing.vcxproj -> D:\Code\learnOpenGL\glfw-build\tests\Debug\tearing.exe
+     1>已完成生成项目“D:\Code\learnOpenGL\glfw-build\tests\tearing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.47

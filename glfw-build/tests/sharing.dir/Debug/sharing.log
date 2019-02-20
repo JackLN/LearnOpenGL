@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/4/7 16:43:41。
+     1>项目“D:\Code\learnOpenGL\glfw-build\tests\sharing.vcxproj”在节点 4 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/Code/learnOpenGL/glfw-3.2.1/glfw-3.2.1/tests/CMakeLists.txt
+         CMake does not need to re-run because D:\Code\learnOpenGL\glfw-build\tests\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\deps" /I"D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"sharing.dir\Debug\\" /Fd"sharing.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\tests\sharing.c" "D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\deps\glad.c"
+         sharing.c
+         glad.c
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\learnOpenGL\glfw-build\tests\Debug\sharing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\src\Debug\glfw3.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Code/learnOpenGL/glfw-build/tests/Debug/sharing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Code/learnOpenGL/glfw-build/tests/Debug/sharing.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug sharing.dir\Debug\sharing.obj
+         sharing.dir\Debug\glad.obj
+         sharing.vcxproj -> D:\Code\learnOpenGL\glfw-build\tests\Debug\sharing.exe
+     1>已完成生成项目“D:\Code\learnOpenGL\glfw-build\tests\sharing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.59

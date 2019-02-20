@@ -1,0 +1,81 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft(R) 生成引擎版本 4.0.30319.18408
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 16:37:35。
+节点 1 上的项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+已完成生成项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标) (1) ->
+  D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.03
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft(R) 生成引擎版本 4.0.30319.18408
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 16:38:50。
+节点 1 上的项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+已完成生成项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标) (1) ->
+  D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.04
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft(R) 生成引擎版本 4.0.30319.18408
+[Microsoft .NET Framework 版本 4.0.30319.18408]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/4/7 16:40:08。
+节点 1 上的项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+已完成生成项目“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj”(默认目标) (1) ->
+  D:\Code\learnOpenGL\glfw-3.2.1\glfw-3.2.1\build\CMakeFiles\3.4.0\CompilerIdC\CompilerIdC.vcxproj(18,3): error MSB4019: 未找到导入的项目“D:\Microsoft.Cpp.Default.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.03
+
+

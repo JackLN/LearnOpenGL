@@ -1,0 +1,1 @@
+@call "d:\Program Files (x86)\PVS-Studio\x64\PVS-Studio.exe" --cfg "E:\shawnNan\OpenGLTest\Simple OpenGL Image Library\projects\VC9\image_helper.c.PVS-Studio.cfg"
