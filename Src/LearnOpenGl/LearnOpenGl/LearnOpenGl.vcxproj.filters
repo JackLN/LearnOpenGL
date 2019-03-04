@@ -48,6 +48,9 @@
     <ClCompile Include="Camera.cpp">
       <Filter>utils</Filter>
     </ClCompile>
+    <ClCompile Include="LightDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DemoBase.h">
@@ -85,6 +88,9 @@
     </ClInclude>
     <ClInclude Include="GLFWHandler.h">
       <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="LightDemo.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
