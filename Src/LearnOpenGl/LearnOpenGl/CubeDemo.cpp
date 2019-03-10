@@ -252,7 +252,7 @@ void CubeDemo::init()
         glUniformMatrix4fv(viewLocation, 1, GL_FALSE, glm::value_ptr(view));
 
         glBindVertexArray(VAO);
-        for (GLuint i = 0; i < 10; i++)
+        for (GLuint i = 0; i < 1; i++)
         {
             glm::mat4 model;
             model = glm::translate(model, cubePositions[i]);
