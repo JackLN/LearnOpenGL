@@ -70,6 +70,7 @@
     <ClCompile Include="Camera.cpp" />
     <ClCompile Include="CubeDemo.cpp" />
     <ClCompile Include="DemoBase.cpp" />
+    <ClCompile Include="GameLoopTest.cpp" />
     <ClCompile Include="GLView.cpp" />
     <ClCompile Include="LightDemo.cpp" />
     <ClCompile Include="main.cpp" />
@@ -84,6 +85,7 @@
     <ClInclude Include="CubeDemo.h" />
     <ClInclude Include="define.h" />
     <ClInclude Include="DemoBase.h" />
+    <ClInclude Include="GameLoopTest.h" />
     <ClInclude Include="GLFWHandler.h" />
     <ClInclude Include="GLView.h" />
     <ClInclude Include="LightDemo.h" />
